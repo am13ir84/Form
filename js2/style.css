@@ -1,0 +1,28 @@
+#chat-container {
+    width: 400px;
+    margin: 20px auto;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 10px;
+  }
+  
+  #message-container {
+    height: 200px;
+    overflow-y: scroll;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 10px;
+  }
+  
+  #input-container {
+    margin-top: 10px;
+  }
+  
+  #message-input {
+    width: 300px;
+    padding: 5px;
+  }
+  
+  #send-button {
+    padding: 5px 10px;
+  }
